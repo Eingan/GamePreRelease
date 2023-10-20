@@ -1,5 +1,3 @@
-# pencari_restoran
-
 A new Flutter project.
 
 ## Getting Started
