@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'gamelist.dart';
+import 'package:pencari_restoran/firebase/login.dart';
 
 void main() {
   runApp(const MyApp());
@@ -40,7 +40,7 @@ class SplashScreen extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => GameList(),
+                      builder: (context) => login(),
                     ),
                   );
                 },

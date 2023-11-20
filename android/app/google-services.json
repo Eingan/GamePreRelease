@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580746628922",
+    "project_id": "gameprerelease",
+    "storage_bucket": "gameprerelease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580746628922:android:fe17676f441adb96788a03",
+        "android_client_info": {
+          "package_name": "com.example.pencari_restoran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC74PEI52s0jdShw_0HEYZ0oUGUlFps3g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
